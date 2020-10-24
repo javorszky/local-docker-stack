@@ -48,8 +48,8 @@ configs:
   php-ini:
     file: ./php/local.ini
 
-volumes: 
+volumes:
   workspace:
-     external: true 
+    external: true
   data:
-     external: true
+    external: true
